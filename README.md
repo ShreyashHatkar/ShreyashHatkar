@@ -1,4 +1,4 @@
-<h1 align="left"><b>Hi , I'm Shreyash </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hi , I'm Shreyash </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>     
 
 
 <p align="left">
@@ -7,16 +7,16 @@
 
 
 - 👀 I’m interested in open source contribution and learning all about programming.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently working on React.
 - 💞️ I’m looking to collaborate on open source web dev projects
 - 📫 How to reach me ... shreyashdhanraj.hatkar2021@vitstudent.ac.in, shreyash071003@gmail.com
 - https://shreyash101.netlify.app/
 
 Connect with me:
 
-[<img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/ShreyashHatkar)
+[<img align="left" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/ShreyashHatkar)
 [<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/_shre._.yash_/)
-[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/shreyash-hatkar-9510bb225/)
+[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/shreyash-hatkar-9510bb225/)
 
 <br />
 
@@ -27,5 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyashHatkar&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashHatkar&theme=gruvbox)](https://github.com/ShreyashHatkar/github-readme-stats)
+[![@shreyashhatkar's Holopin board](https://holopin.io/api/user/board?user=shreyashhatkar)](https://holopin.io/@shreyashhatkar)
